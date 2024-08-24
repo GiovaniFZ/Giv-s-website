@@ -63,12 +63,8 @@ i {
 
 .block_container {
   border-radius: 15px;
-  padding-bottom: 10px;
-  padding-left: 20px;
-  padding-right: 20px;
   text-align: center;
   width: 350px;
-  height: 166px;
   background-color: var(--block-bg-color);
 }
 

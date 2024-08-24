@@ -2,13 +2,6 @@
 A new website, built with pure HTML, CSS and JS.
 # How to use it?
 1. Clone this repo
-```
-git clone https://github.com/mthlma/new.eleu.me
-```
-or
-```
-https://github.com/lucmsilva651/new.eleu.me.git
-```
 2. Open in vscode
 ```
 code .
